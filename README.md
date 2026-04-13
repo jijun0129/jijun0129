@@ -13,5 +13,5 @@
 - 2025 AI-conic Hackathon - 장려상
 
 ## ✨ About Me ✨
-![Anurag's GitHub stats](https://github-readme-stats-jijun0129s-projects.vercel.app/api?username=jijun0129&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats-ten-lyart-76.vercel.app/api?username=jijun0129&show_icons=true&theme=transparent)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jijun0129)](https://solved.ac/jijun0129)
